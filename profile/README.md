@@ -5,7 +5,7 @@ We are the Condon Research Lab at the University of Arizona. Our research focuse
 Learn more about our research work at [condonlab.org](https://condonlab.org/) 
 
 ### 📁What You'll Find Here 
-* Condon Lab Documents - contribute or quickly access at [condon-lab.github.io/Condon_Lab_Docs/](https://condon-lab.github.io/Condon_Lab_Docs/)
+* Condon Lab Documents - contribute (members-only) or quickly access at [condon-lab.github.io/Condon_Lab_Docs/](https://condon-lab.github.io/Condon_Lab_Docs/)
 * Publication Repositories - code and data supporting our journal articles
 <!--
 
