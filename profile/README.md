@@ -1,6 +1,6 @@
 ## Welcome to the Condon Lab GitHub 👋
 
-We are the Condon Research Lab at the University of Arizona. Our research focuses on advancing the understanding of water resources through modeling, remote sensing, and data-driven approaches.💧🛰️🌎
+We are the Condon Research Lab at the University of Arizona. Our research explores the dynamics of hydrologic systems through modeling, remote sensing, and computational tools.💧🛰️🌎 
 
 Learn more about our research work at [condonlab.org](https://condonlab.org/) 
 
